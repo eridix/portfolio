@@ -41,7 +41,7 @@
             "A Antibia (84170 Monteux)",
             "Développement d'un module d’un ERP pour les SDIS (Service Départemental d'Incendie et de Secours) / pompier",
             "Réalisation de la mobilité interne des pompiers ainsi que la gestion des diplomes",
-            "Dévelopement en Angular (Ngrx, RxJS, Material Angular, Bootstrap), Spring Boot/Java (Hibernate), keycloak et Microsoft SQL Server"
+            "Dévelopement en Angular (RxJS, Material Angular, Bootstrap), Spring Boot/Java (Hibernate), keycloak et Microsoft SQL Server"
         ]
   },
       {
@@ -107,7 +107,7 @@
                 "assets/images/SAE4/mobile2.png",
                 "assets/images/SAE4/mobile3.png"
             ],
-            "Technologies": ["Symfony", "JS", "SQL"]
+            "Technologies": ["android (java)", "Symfony", "SQL"]
           },
 
         {
