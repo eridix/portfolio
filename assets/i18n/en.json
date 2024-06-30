@@ -1,0 +1,108 @@
+{
+
+    "Header.Item1" : "A propos de moi",
+    "Header.Item2" : "Experience",
+    "Header.Item3" : "Projects",
+    "Header.Item4" : "Contact",
+    "Header.cvBtn" : "Voir mon CV",
+    "Header.cvName": "CV_Paul_MATHIEU.pdf",
+
+    "Banner.Pretitle": "Bonjour! Je m'appelle",
+    "Banner.Description": "J'ai un <span class='underline'>BUT informatique</span> à Genoble. Mon objectif est de <span class='underline'>devellopeur web FullStack</span>. Je suis spécialisé dans les technologies <span class='underline'>Angular</span> et <span class='underline'>Java</span>.",
+    "Banner.ActionBtn": "Envoyer moi un mail",
+
+    "AboutMe.Title": "A propos de moi",
+    "AboutMe.Paragraphs": [
+      "En <span class='underline'>8 ans d'expérience</span>, j'ai occupé de nombreux rôles : <span class='underline'>Analyste système</span>, <span class='underline'>développeur backend</span>, <span class='underline'>développeur frontend</span> et <span class='underline'>chef technique</span>. J'adore contribuer mes connaissances pour créer de nouvelles choses qui aident à résoudre des problèmes.",
+      "Mes compétences incluent également la mise en œuvre d'améliorations dans les systèmes, l'optimisation des sites, la normalisation des modèles et la proposition et l'exécution d'idées qui ajoutent de la valeur au projet sur lequel je travaille.",
+      "Je programme également des choses pour mon usage personnel, que ce soit comme passe-temps ou pour des utilités.",
+      "Certaines des technologies sur lesquelles je me suis formé et avec lesquelles j'ai travaillé incluent (mais ne se limitent pas à) :"
+    ],
+
+
+    "Experience.Title": "Experience",
+    "Experience.Jobs": [
+
+        {
+            "Tab": "Stage 3ème année",
+            "Title": "Fullstack developer",
+            "Date": "Mars 2024 - Juin 2024",
+            "Description": [
+                "A Antibia (84170 Monteux)",
+                "Développement d'un module d’un ERP pour les SDIS (Service Départemental d'Incendie et de Secours) / pompier",
+                "Réalisation des entretiens individuel (CREP) et de la génération d'un pdf via un xls",
+                "Dévelopement en Angular (Ngrx, RxJS, Material Angular, Bootstrap), Spring Boot/Java (Hibernate), keycloak et Microsoft SQL Server"
+            ]
+      },
+      {
+        "Tab": "Stage 2ème année",
+        "Title": "Fullstack developer",
+        "Date": "Mars 2024 - Juin 2024",
+        "Description": [
+            "A Antibia (84170 Monteux)",
+            "Développement d'un module d’un ERP pour les SDIS (Service Départemental d'Incendie et de Secours) / pompier",
+            "Réalisation de la mobilité interne des pompiers ainsi que la gestion des diplomes",
+            "Dévelopement en Angular (Ngrx, RxJS, Material Angular, Bootstrap), Spring Boot/Java (Hibernate), keycloak et Microsoft SQL Server"
+        ]
+  },
+      {
+            "Tab": "BUT informatique",
+            "Title": "Etudiant",
+            "Date": "2021 - 2024",
+            "Description": [
+              "Parcours A : Réalisation d'applications conception développement validation"
+            ]
+        }
+    ],
+
+    "FeatureProjects.Title": "Mes projects",
+    "FeatureProjects.Label": "Project Principal",
+    "FeatureProjects.Projects": [{
+        "Title": "Webdag",
+        "Description": "Web application dévelloper pendant mon <span class='underline'>stage de 3ème année à Antibia</span>. C'est un ERP pour les SDIS (Service Départemental d'Incendie et de Secours) / pompier. Il permet de gérer les entretiens individuel (CREP) et de la génération d'un pdf via un xls. Il permet aussi de gérer la mobilité interne des pompiers ainsi que la gestion des diplomes.",
+        "imgs": [
+        "assets/images/gisselle/Captura de pantalla 2024-05-19 1009582.png",
+        "assets/images/gisselle/Captura de pantalla 2024-05-19 115514.png",
+        "assets/images/gisselle/Captura de pantalla 2024-05-19 115702.png",
+        "assets/images/gisselle/Captura de pantalla 2024-05-19 115829.png",
+        "assets/images/gisselle/Captura de pantalla 2024-05-19 1009582.png"
+        ],
+        "Technologies": ["Angular", "Java", "NgRX", "Angular Material", "RxJS", "Hibernate", "Keycoak", "Microsoft SQL Server", "Bootstrap"]
+        },
+
+        {
+          "Title": "Dahu",
+          "Description": "Création d’un site web et une application mobile pour l’association DAHU.",
+          "imgs": [
+              "assets/images/proyex2/6d7d8f04-f1f0-40c7-afbb-d2944cdb4d9c.png",
+              "assets/images/proyex2/849c117f-bed9-4406-9c13-c8669f655acc.png",
+              "assets/images/proyex2/62cdf90c-6196-4a6e-b639-8919cda4f749.png",
+              "assets/images/proyex2/8c919208-d6a8-48f4-890d-4817323b6923.png",
+              "assets/images/proyex2/8c919208-d6a8-48f4-890d-4817323b6923 (1).png"
+          ],
+          "Technologies": ["Angular", "Symfony","Api platform", "Capacitor", "Mysql", "Docker", "Api Google Map", "Cypress", "Angular Material", "RxJS", "Bootstrap" ]
+        },
+
+        {
+          "Title": "Instrumental",
+          "Description": "Application web de vente aux enchères des beats en temps réel.",
+         "imgs": [
+              "assets/images/agrourbana/agrourbana1.png",
+              "assets/images/agrourbana/agrourbana2.png",
+              "assets/images/agrourbana/agrourbana3.png",
+              "assets/images/agrourbana/agrourbana4.png",
+              "assets/images/agrourbana/agrourbana5.png"
+          ],
+          "Technologies": ["Symfony", "JS", "SQL"]
+        }
+
+    ],
+
+
+    "Contact.Pretitle": "What’s Next",
+    "Contact.Title": "Get in touch!",
+    "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+    "Contact.Btn": "Say Hello"
+
+
+}
